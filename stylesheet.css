@@ -1,0 +1,77 @@
+body{ 
+   
+    background-image: url("http://vignette1.wikia.nocookie.net/starwars/images/5/5d/ISDNaboo.jpg/revision/latest?cb=20070215141900");
+	background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    
+    height: 100%; 
+
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}img{
+
+    margin: 20px;
+    width: 50%;
+   padding: 120px;
+    position: left;
+	
+}
+	
+p}
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+{
+    color: blue;
+    font-family: verdana;
+    font-size: 300%;
+
+}
+{
+    color: red;
+    font-family: courier;
+    font-size: 160%;
+}
+
+
+h1 {
+    color: red;
+    font-family: verdana;
+    font-size: 300%;
+
+}
+p  {
+    color: white;
+    font-family: courier;
+    font-size: 160%;
+}
